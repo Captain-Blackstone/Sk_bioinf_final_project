@@ -1,0 +1,4 @@
+operon,coordinates,genes,possible function
+1,43-5120,00001; 00002; 00003; 00004; 00005; 00006,cell wall building
+2,7892-9890,00009; 00010; 00011,fatty acid synthesis
+3,16663-19181,00020; 00021; 00022; 00023,undefined

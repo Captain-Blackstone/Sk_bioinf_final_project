@@ -1,0 +1,37 @@
+Prokka ID,coordinates,strand,Prokka annotation,Batch CD annotation
+GFKBJCAA_00001,43-771,+,hypothetical protein,TauE
+GFKBJCAA_00002,843-1520,+,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,Glyco_tranf_GTA_type superfamily
+GFKBJCAA_00003,1514-2143,+,SPBc2 prophage-derived endonuclease YokF,SNc superfamily
+GFKBJCAA_00004,2221-2622,+,hypothetical protein,DUF4870
+GFKBJCAA_00005,2716-4011,+,hypothetical protein,PEP_TPR_lipo superfamily; PRK11447 superfamily
+GFKBJCAA_00006,4101-5120,+,General stress protein 69,AKR_AKR12A1_B1_C1
+GFKBJCAA_00007,5162-6310,-,Aldose sugar dehydrogenase YliI,GSDH
+GFKBJCAA_00008,6500-7870,+,Poly(A) polymerase I,PcnB
+GFKBJCAA_00009,7892-8200,-,Flagellar motor switch protein FliN,FliMN_C
+GFKBJCAA_00010,8310-9551,-,3-oxoacyl-[acyl-carrier-protein] synthase 2,fabF
+GFKBJCAA_00011,9651-9890,-,Acyl carrier protein,acpP
+GFKBJCAA_00012,10315-11820,+,hypothetical protein,-
+GFKBJCAA_00013,11915-12445,-,Orotate phosphoribosyltransferase,PyrE
+GFKBJCAA_00014,12453-13469,+,Epoxyqueuosine reductase,TIGR00276 superfamily
+GFKBJCAA_00015,13466-13945,+,hypothetical protein,Dabb
+GFKBJCAA_00016,14040-14477,-,18 kDa heat shock protein,ACD_sHsps-like
+GFKBJCAA_00017,14416-14589,-,hypothetical protein,-
+GFKBJCAA_00018,14680-15582,+,tRNA dimethylallyltransferase,miaA
+GFKBJCAA_00019,15597-16658,+,3-isopropylmalate dehydrogenase,Iso_dh superfamily
+GFKBJCAA_00020,16663-17310,-,hypothetical protein,S2P-M50_like_1
+GFKBJCAA_00021,17419-18015,-,Histidine biosynthesis bifunctional protein HisB,hisB
+GFKBJCAA_00022,18044-18421,-,Undecaprenol kinase,UDPK_IM_like
+GFKBJCAA_00023,18414-19181,-,hypothetical protein,EEP superfamily
+GFKBJCAA_00024,19331-19786,+,hypothetical protein,nfrB superfamily
+GFKBJCAA_00025,19704-20465,-,hypothetical protein,-
+GFKBJCAA_00026,20517-21383,-,Branched-chain-amino-acid aminotransferase,PLPDE_IV superfamily
+GFKBJCAA_00027,21578-21961,+,Aspartate 1-decarboxylase,Asp_decarbox
+GFKBJCAA_00028,22007-22489,-,putative peptidyl-prolyl cis-trans isomerase,PpiB
+GFKBJCAA_00029,22563-23513,-,All-trans-phytoene synthase,SQS_PSY
+GFKBJCAA_00030,23566-24402,+,hypothetical protein,DUF1444 superfamily
+GFKBJCAA_00031,24465-25412,+,hypothetical protein,Abhydrolase superfamily
+GFKBJCAA_00032,25418-26356,-,hypothetical protein,metallo-dependent_hydrolases superfamily
+GFKBJCAA_00033,26360-27823,-,L-Rhamnulokinase,FGGY_RhuK
+GFKBJCAA_00034,27920-28186,+,hypothetical protein,-
+GFKBJCAA_00035,28393-28773,+,hypothetical protein,-
+GFKBJCAA_00036,28871-29617,-,hypothetical protein,TS_Pyrimidine_HMase superfamily

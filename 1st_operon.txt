@@ -1,0 +1,8 @@
+- taurine metabolism (sulpho amino acid, from cysteine, constituent of cell surface polymers - https://www.microbiologyresearch.org/docserver/fulltext/micro/129/8/mic-129-8-2421.pdf?expires=1602773985&id=id&accname=guest&checksum=6E8CBC1DE3EE50FC1FCD8F32E39E10B0), sulphoacetate export
+- isoprenoid precursor biosynthesis (cell wall synthesis - https://www.researchgate.net/publication/290506434_Isoprenoid_Biosynthesis_in_Prokaryotic_Organisms)
+- calcium-dependent DNA-nuclease
+- cellulose synthase subunit; PEP-CTERM system lipoprotein (associated with exopolysaccharide (EPS) production genes - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1569441/)
+- General stress protein
+
+Conclusion:
+	Some cell wall components building system. Though stress protein and DNa-nuclease activity present are weird.

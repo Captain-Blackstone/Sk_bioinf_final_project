@@ -1,0 +1,237 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:36 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 36 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:36 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:37 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::36 proteins have invalid IDs.
+annotation_prokka//PROKKA_10132020:Tepidisphaera_1 (length 242)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_2 (length 225)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_3 (length 209)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_4 (length 133)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_5 (length 431)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_6 (length 339)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_7 (length 382)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_8 (length 456)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_9 (length 102)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_10 (length 413)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_11 (length 79)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_12 (length 501)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_13 (length 176)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_14 (length 338)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_15 (length 159)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_16 (length 145)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_17 (length 57)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_18 (length 300)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_19 (length 353)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_20 (length 215)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_21 (length 198)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_22 (length 125)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_23 (length 255)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_24 (length 151)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_25 (length 253)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_26 (length 288)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_27 (length 127)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_28 (length 160)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_29 (length 316)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_30 (length 278)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_31 (length 315)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_32 (length 312)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_33 (length 487)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_34 (length 88)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_35 (length 126)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_36 (length 248)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 36 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+annotation_prokka//PROKKA_10132020:Tepidisphaera (length 30001)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::36 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:43-771	GFKBJCAA_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	Tepidisphaera:843-1520	GFKBJCAA_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	SPBc2 prophage-derived endonuclease YokF	Tepidisphaera:1514-2143	GFKBJCAA_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:2221-2622	GFKBJCAA_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:2716-4011	GFKBJCAA_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	General stress protein 69	Tepidisphaera:4101-5120	GFKBJCAA_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	Aldose sugar dehydrogenase YliI	Tepidisphaera:c6310-5162	GFKBJCAA_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	Poly(A) polymerase I	Tepidisphaera:6500-7870	GFKBJCAA_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	Flagellar motor switch protein FliN	Tepidisphaera:c8200-7892	GFKBJCAA_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	3-oxoacyl-[acyl-carrier-protein] synthase 2	Tepidisphaera:c9551-8310	GFKBJCAA_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	Acyl carrier protein	Tepidisphaera:c9890-9651	GFKBJCAA_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:10315-11820	GFKBJCAA_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	Orotate phosphoribosyltransferase	Tepidisphaera:c12445-11915	GFKBJCAA_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	Epoxyqueuosine reductase	Tepidisphaera:12453-13469	GFKBJCAA_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:13466-13945	GFKBJCAA_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	18 kDa heat shock protein	Tepidisphaera:c14477-14040	GFKBJCAA_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:c14589-14416	GFKBJCAA_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	tRNA dimethylallyltransferase	Tepidisphaera:14680-15582	GFKBJCAA_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	3-isopropylmalate dehydrogenase	Tepidisphaera:15597-16658	GFKBJCAA_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:c17310-16663	GFKBJCAA_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	Histidine biosynthesis bifunctional protein HisB	Tepidisphaera:c18015-17419	GFKBJCAA_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	Undecaprenol kinase	Tepidisphaera:c18421-18044	GFKBJCAA_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:c19181-18414	GFKBJCAA_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:19331-19786	GFKBJCAA_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:c20465-19704	GFKBJCAA_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	Branched-chain-amino-acid aminotransferase	Tepidisphaera:c21383-20517	GFKBJCAA_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	Aspartate 1-decarboxylase	Tepidisphaera:21578-21961	GFKBJCAA_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	putative peptidyl-prolyl cis-trans isomerase	Tepidisphaera:c22489-22007	GFKBJCAA_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	All-trans-phytoene synthase	Tepidisphaera:c23513-22563	GFKBJCAA_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:23566-24402	GFKBJCAA_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:24465-25412	GFKBJCAA_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:c26356-25418	GFKBJCAA_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	L-Rhamnulokinase	Tepidisphaera:c27823-26360	GFKBJCAA_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:27920-28186	GFKBJCAA_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:28393-28773	GFKBJCAA_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+annotation_prokka//PROKKA_10132020:CDS	hypothetical protein	Tepidisphaera:c29617-28871	GFKBJCAA_00036
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+annotation_prokka//PROKKA_10132020:Tepidisphaera:Annotated using prokka 1.12 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+annotation_prokka//PROKKA_10132020:Tepidisphaera (length 30001)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+annotation_prokka//PROKKA_10132020:Tepidisphaera (length 30001)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+annotation_prokka//PROKKA_10132020:Tepidisphaera (length 30001)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+annotation_prokka//PROKKA_10132020:Tepidisphaera (length 30001)
+
+DiscRep_ALL:MISSING_PROJECT::37 sequences do not include project.
+annotation_prokka//PROKKA_10132020:Tepidisphaera (length 30001)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_1 (length 242)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_2 (length 225)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_3 (length 209)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_4 (length 133)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_5 (length 431)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_6 (length 339)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_7 (length 382)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_8 (length 456)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_9 (length 102)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_10 (length 413)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_11 (length 79)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_12 (length 501)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_13 (length 176)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_14 (length 338)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_15 (length 159)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_16 (length 145)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_17 (length 57)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_18 (length 300)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_19 (length 353)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_20 (length 215)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_21 (length 198)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_22 (length 125)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_23 (length 255)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_24 (length 151)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_25 (length 253)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_26 (length 288)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_27 (length 127)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_28 (length 160)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_29 (length 316)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_30 (length 278)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_31 (length 315)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_32 (length 312)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_33 (length 487)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_34 (length 88)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_35 (length 126)
+annotation_prokka//PROKKA_10132020:Tepidisphaera_36 (length 248)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+annotation_prokka//PROKKA_10132020:Tepidisphaera (length 30001)
+

@@ -1,0 +1,32 @@
+Downloaded the sequence
+scp -P 9022 dmitry_biba@mg.uncb.iitp.ru:/mnt/local/skcourse5/shared/Final_project/Fasta_assignments_2020/3.fasta ./data/
+
+Annotated with prokka
+prokka --outdir annotation_prokka/ --force data/3.fasta --genus Tepidisphaera --species mucosa 
+
+Then jupyter notebook kicks in - annotated operons, extracted genes into CDS/ folder, performed blastn into blast_out/ folder.
+
+performed tblastx, merged results
+
+defined phylums of blast hits with the help of this site - https://lpsn.dsmz.de (Candidatus Solibacter with the help of this one: https://microbewiki.kenyon.edu/)
+
+Concatenated all the CDS
+cat CDS/* > all_proteins.fasta
+
+
+Submitted all_poteins.fasta to TMHMM (http://www.cbs.dtu.dk/services/TMHMM/), no TM domains found.
+
+Translated all_proteins.fasta -> all_proteins_translated.fasta with python script
+
+Submitted all_proteins_translated.fasta to Batch-CD search (https://www.ncbi.nlm.nih.gov/Structure/bwrpsb/bwrpsb.cgi), got file with domains - conserved_domains.tsv
+
+Tried to find rRNAs with barrnap:
+barrnap data/3.fasta --outseq barrnap/rRNAs
+
+Found some tRNAs with aragorn:
+aragorn -mt data/3.fasta -o aragorn_out.txt
+
+Tried to find CRISPR-cas genes with CRISPRCasFinder (https://crisprcas.i2bc.paris-saclay.fr/CrisprCasFinder/Index)
+
+Searched for secondary metabolites genes in antismash (https://antismash.secondarymetabolites.org/#!/start), submitted 3.fasta there.
+GFKBJCAA_00029 is terpene-synthetase or something (All-trans-phytoene synthase)

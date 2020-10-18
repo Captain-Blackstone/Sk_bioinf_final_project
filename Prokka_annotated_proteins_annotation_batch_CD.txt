@@ -1,0 +1,81 @@
+GFKBJCAA_00002 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+ -> Glyco_tranf_GTA_type superfamily
+Glycosyltransferase family A (GT-A) includes diverse families of glycosyl transferases with a common GT-A type structural fold; Glycosyltransferases (GTs) are enzymes that synthesize oligosaccharides, polysaccharides, and glycoconjugates by transferring the sugar moiety from an activated nucleotide-sugar donor to an acceptor molecule, which may be a growing oligosaccharide, a lipid, or a protein.  Based on the stereochemistry of the donor and acceptor molecules, GTs are classified as either retaining or inverting enzymes. To date, all GT structures adopt one of two possible folds, termed GT-A fold and GT-B fold.  This hierarchy includes diverse families of glycosyl transferases with a common GT-A type structural fold, which has two tightly associated beta/alpha/beta domains that tend to form a continuous central sheet of at least eight beta-strands. The majority of the proteins in this superfamily are Glycosyltransferase family 2 (GT-2) proteins. But it also includes families GT-43, GT-6, GT-8, GT13 and GT-7; which are evolutionarily related to GT-2 and share structure similarities.
+
+GFKBJCAA_00003 SPBc2 prophage-derived endonuclease YokF
+ -> SNc superfamily
+Staphylococcal nuclease homologues; Staphylococcal nuclease homologues.  
+
+GFKBJCAA_00006 General stress protein 69
+ -> AKR_AKR12A1_B1_C1
+AKR12A, AKR12B,  AKR12C families of aldo-keto reductase (AKR); Streptomyces fradiae TylCII, Saccharopolyspora erythraea EryBII, and Streptomyces avermitilis aveBVIII are founding members of aldo-keto reductase family 12 member A1 (AKR12A1), B1 (AKR12B1), and C1(AKR12C1), respectively. TylCII acts as a NDP-hexose 2,3-enoyl reductase. EryBII is a mycarose/desosamine reductase involved in L-mycarose and D-desosamine production. aveBVIII functions as a dTDP-4-keto-6-deoxy-L-hexose-2,3-reductase.
+
+GFKBJCAA_00007 Aldose sugar dehydrogenase YliI
+ -> GSDH
+Glucose / Sorbosone dehydrogenase; Members of this family are glucose/sorbosone dehydrogenases that possess a beta-propeller fold.
+
+GFKBJCAA_00008 Poly(A) polymerase I
+ -> PcnB
+tRNA nucleotidyltransferase/poly(A) polymerase [Translation, ribosomal structure and biogenesis]; tRNA nucleotidyltransferase/poly(A) polymerase [Translation, ribosomal structure and biogenesis].
+
+GFKBJCAA_00009 Flagellar motor switch protein FliN
+ -> FliMN_C
+Type III flagellar switch regulator (C-ring) FliN C-term; This family includes the C-terminal region of flagellar motor switch proteins FliN and FliM. It is associated with family FliM, pfam02154 and family FliN_N pfam16973.
+
+GFKBJCAA_00010 3-oxoacyl-
+ -> fabF
+beta-ketoacyl-acyl-carrier-protein synthase II; 3-oxoacyl-[acyl-carrier-protein] synthase 2 (KAS-II, FabF) is involved in the condensation step of fatty acid biosynthesis in which the malonyl donor group is decarboxylated and the resulting carbanion used to attack and extend the acyl group attached to the acyl carrier protein. Most genomes encoding fatty acid biosynthesis contain a number of condensing enzymes, often of all three types: 1, 2 and 3. Synthase 2 is mechanistically related to synthase 1 (KAS-I, FabB) containing a number of absolutely conserved catalytic residues in common. This model is based primarily on genes which are found in apparent operons with other essential genes of fatty acid biosynthesis (GenProp0681). The large gap between the trusted cutoff and the noise cutoff contains many genes which are not found adjacent to genes of the fatty acid pathway in genomes that often also contain a better hit to this model. These genes may be involved in other processes such as polyketide biosyntheses. Some genomes contain more than one above-trusted hit to this model which may result from recent paralogous expansions. Second hits to this model which are not next to other fatty acid biosynthesis genes may be involved in other processes. FabB sequences should fall well below the noise cutoff of this model. [Fatty acid and phospholipid metabolism, Biosynthesis]
+
+GFKBJCAA_00011 Acyl carrier protein
+ -> acpP
+acyl carrier protein; Provisional
+
+GFKBJCAA_00013 Orotate phosphoribosyltransferase
+ -> PyrE
+Orotate phosphoribosyltransferase [Nucleotide transport and metabolism]; Orotate phosphoribosyltransferase [Nucleotide transport and metabolism].
+
+GFKBJCAA_00014 Epoxyqueuosine reductase
+ -> TIGR00276 superfamily
+epoxyqueuosine reductase; This model was rebuilt to exclude archaeal homologs, now that there is new information that bacterial members are epoxyqueuosine reductase, QueG, involved in queuosine biosynthesis for tRNA maturation. [Protein synthesis, tRNA and rRNA base modification]
+
+GFKBJCAA_00016 18 kDa heat shock protein
+ -> ACD_sHsps-like
+Alpha-crystallin domain (ACD) of alpha-crystallin-type small(s) heat shock proteins (Hsps). sHsps are small stress induced proteins with monomeric masses between 12 -43 kDa, whose common feature is the Alpha-crystallin domain  (ACD). sHsps are generally active as large oligomers consisting of multiple subunits, and are believed to be ATP-independent chaperones that prevent aggregation and are important in refolding in combination with other Hsps.
+
+GFKBJCAA_00018 tRNA dimethylallyltransferase
+ -> miaA
+tRNA delta(2)-isopentenylpyrophosphate transferase; Reviewed
+
+GFKBJCAA_00019 3-isopropylmalate dehydrogenase
+ -> Iso_dh superfamily
+Isocitrate/isopropylmalate dehydrogenase; Isocitrate/isopropylmalate dehydrogenase.  
+
+GFKBJCAA_00021 Histidine biosynthesis bifunctional protein HisB
+ -> hisB
+imidazoleglycerol-phosphate dehydratase HisB; imidazoleglycerol-phosphate dehydratase HisB.  
+
+GFKBJCAA_00022 Undecaprenol kinase
+ -> UDPK_IM_like
+Integral membrane undecaprenol kinase and similar enzymes; This mostly bacterial family of homo-trimeric integral membrane enzymes, the products of the dgkA gene, catalyzes the ATP-dependent phosphorylation of undecaprenol to undecaprenyl phosphate. C55-isoprenyl (undecaprenyl) pyroposphate acts as a scaffold for the assembly of peptidoglycan components; undecaprenol kinase (UDPK) is involved in recycling undecaprenyl units for re-use in the peptidoglycan biosynthesis. UDPK does not participate in the de-novo biosynthesis of undecaprenyl phosphate. Gram-positive bacteria have a large pool of free undecaprenol, in contrast to gram-negative bacteria. UDPK may also play a role in a stress-induced pathway that affects the function of ribosomes. In Streptococcus mutans, UDPK has been shown to be required for biofilm formation, such as in the case of smooth surface dental caries. Members of the UDPK family have low activity as diacylglycerol kinases (DAGK), and many of them are annotated as DAGKs.
+
+GFKBJCAA_00026 Branched-chain-amino-acid aminotransferase
+ -> PLPDE_IV superfamily
+PyridoxaL 5'-Phosphate Dependent Enzymes class IV (PLPDE_IV). This D-amino acid superfamily, one of five classes of PLPDE, consists of branched-chain amino acid aminotransferases (BCAT), D-amino acid transferases (DAAT), and 4-amino-4-deoxychorismate lyases (ADCL). BCAT catalyzes the reversible transamination reaction between the L-branched-chain amino and alpha-keto acids. DAAT catalyzes the synthesis of D-glutamic acid and D-alanine, and ADCL converts 4-amino-4-deoxychorismate to p-aminobenzoate and pyruvate. Except for a few enzymes, i. e.,  Escherichia coli and Salmonella BCATs, which are homohexamers arranged as a double trimer, the class IV PLPDEs are homodimers. Homodimer formation is required for catalytic activity.
+
+GFKBJCAA_00027 Aspartate 1-decarboxylase
+ -> Asp_decarbox
+Aspartate decarboxylase; Decarboxylation of aspartate is the major route of beta-alanine production in bacteria, and is catalyzed by the enzyme aspartate decarboxylase EC:4.1.1.11 which requires a pyruvoyl group for its activity. It is synthesized initially as a proenzyme which is then proteolytically cleaved to an alpha (C-terminal) and beta (N-terminal) subunit and a pyruvoyl group. This family contains both chains of aspartate decarboxylase.
+
+GFKBJCAA_00028 putative peptidyl-prolyl cis-trans isomerase
+ -> PpiB
+Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family [Posttranslational modification, protein turnover, chaperones]; Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family [Posttranslational modification, protein turnover, chaperones].
+
+GFKBJCAA_00029 All-trans-phytoene synthase
+ -> SQS_PSY
+Squalene/phytoene synthase; Squalene/phytoene synthase.  
+
+GFKBJCAA_00033 L-Rhamnulokinase
+ -> FGGY_RhuK
+L-rhamnulose kinases; a subfamily of the FGGY family of carbohydrate kinases; This subfamily is predominantly composed of bacterial L-rhamnulose kinases (RhuK, also known as rhamnulokinase; EC 2.7.1.5), which are encoded by the rhaB gene and catalyze the ATP-dependent phosphorylation of L-rhamnulose to produce L-rhamnulose-1-phosphate and ADP. Some uncharacterized homologous sequences are also included in this subfamily. The prototypical member of this subfamily is Escherichia coli RhuK, which exists as a monomer composed of two large domains. The ATP binding site is located in the cleft between the two domains. This model includes both the N-terminal domain, which adopts a ribonuclease H-like fold, and the structurally related C-terminal domain. The presence of divalent Mg2+ or Mn2+ is required for catalysis. Although an intramolecular disulfide bridge is present in Rhuk, disulfide formation is not important to the regulation of RhuK enzymatic activity. Members of this subfamily belong to the FGGY family of carbohydrate kinases.
+
+Proteins annotated: 20

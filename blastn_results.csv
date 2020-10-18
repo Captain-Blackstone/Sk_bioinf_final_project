@@ -1,0 +1,8 @@
+ID,log10_e_val,seq_length,seq_identity,annotation,best_hit,organism
+GFKBJCAA_00014,-5.0,1017,40,Epoxyqueuosine reductase,"Caldilinea aerophila DSM 14535 = NBRC 104270 DNA, complete genome",Caldilinea aerophila
+GFKBJCAA_00028,-19.0,483,87,putative peptidyl-prolyl cis-trans isomerase,Stenotrophomonas rhizophila strain DSM14405 genome,Stenotrophomonas rhizophila
+GFKBJCAA_00027,-5.0,384,35,Aspartate 1-decarboxylase,"Deinococcus deserti VCD115, complete genome",Deinococcus deserti
+GFKBJCAA_00033,-7.0,1464,38,L-Rhamnulokinase,"Candidatus Solibacter usitatus Ellin6076, complete genome",Candidatus Solibacter
+GFKBJCAA_00006,-3.0,1020,44,General stress protein 69,"Hymenobacter sp. DG25A, complete genome",Hymenobacter sp.
+GFKBJCAA_00026,-9.0,867,78,Branched-chain-amino-acid aminotransferase,"Candidatus Acetothermus autotrophicum DNA, large contig sequence, contig 4",Candidatus Acetothermus
+GFKBJCAA_00010,-20.0,1242,154,3-oxoacyl-[acyl-carrier-protein] synthase 2,"Aeromonas salmonicida strain O23A chromosome, complete genome",Aeromonas salmonicida

@@ -1,0 +1,21 @@
+ID,method,log10_e_val,annotation,organism,phylum
+GFKBJCAA_00002,tblastx,-14.0,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,Planctomycetes bacterium,Planctomycetes
+GFKBJCAA_00003,tblastx,-5.0,SPBc2 prophage-derived endonuclease YokF,Shewanella sp.,Proteobacteria
+GFKBJCAA_00004,tblastx,-27.0,hypothetical protein,Pseudoalteromonas issachenkonii,Proteobacteria
+GFKBJCAA_00006,blastn,-3.0,General stress protein 69,Hymenobacter sp.,Bacteroidetes
+GFKBJCAA_00009,tblastx,-17.0,Flagellar motor switch protein FliN,Phycisphaerae bacterium,Planctomycetes
+GFKBJCAA_00010,blastn,-20.0,3-oxoacyl-[acyl-carrier-protein] synthase 2,Aeromonas salmonicida,Proteobacteria
+GFKBJCAA_00011,tblastx,-35.0,Acyl carrier protein,Planctomycetales bacterium,Planctomycetes
+GFKBJCAA_00013,tblastx,-54.0,Orotate phosphoribosyltransferase,Phycisphaerae bacterium,Planctomycetes
+GFKBJCAA_00014,blastn,-5.0,Epoxyqueuosine reductase,Caldilinea aerophila,Chloroflexi
+GFKBJCAA_00015,tblastx,-13.0,hypothetical protein,Methylococcus capsulatus,Proteobacteria
+GFKBJCAA_00016,tblastx,-27.0,18 kDa heat shock protein,Roseimaritima ulvae,Planctomycetes
+GFKBJCAA_00017,tblastx,-1.0,hypothetical protein,Pseudomonas rhizosphaerae,Proteobacteria
+GFKBJCAA_00021,tblastx,-67.0,Histidine biosynthesis bifunctional protein HisB,Alpha proteobacteria,Proteobacteria
+GFKBJCAA_00022,tblastx,-13.0,Undecaprenol kinase,Bacillus circulans,Firmicutes
+GFKBJCAA_00024,tblastx,-12.0,hypothetical protein,Planctomycetales bacterium,Planctomycetes
+GFKBJCAA_00026,tblastx,-126.0,Branched-chain-amino-acid aminotransferase,Thermogutta terrifontis,Planctomycetes
+GFKBJCAA_00027,tblastx,-36.0,Aspartate 1-decarboxylase,Planctomycetales bacterium,Planctomycetes
+GFKBJCAA_00028,blastn,-19.0,putative peptidyl-prolyl cis-trans isomerase,Stenotrophomonas rhizophila,Proteobacteria
+GFKBJCAA_00033,blastn,-7.0,L-Rhamnulokinase,Candidatus Solibacter,Acidobacteria
+GFKBJCAA_00034,tblastx,0.0,hypothetical protein,Lateolabrax maculatus,fish

@@ -1,0 +1,200 @@
+>Feature Tepidisphaera
+43	771	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00001
+			product	hypothetical protein
+843	1520	CDS
+			EC_number	2.7.7.60
+			gene	ispD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q06755
+			locus_tag	GFKBJCAA_00002
+			product	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+1514	2143	CDS
+			EC_number	3.1.-.-
+			gene	yokF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32001
+			locus_tag	GFKBJCAA_00003
+			product	SPBc2 prophage-derived endonuclease YokF
+2221	2622	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00004
+			product	hypothetical protein
+2716	4011	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00005
+			product	hypothetical protein
+4101	5120	CDS
+			EC_number	1.1.1.-
+			gene	yhdN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P80874
+			locus_tag	GFKBJCAA_00006
+			product	General stress protein 69
+6310	5162	CDS
+			EC_number	1.1.5.-
+			gene	yliI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75804
+			locus_tag	GFKBJCAA_00007
+			product	Aldose sugar dehydrogenase YliI
+6500	7870	CDS
+			EC_number	2.7.7.19
+			gene	pcnB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABF1
+			locus_tag	GFKBJCAA_00008
+			product	Poly(A) polymerase I
+8200	7892	CDS
+			gene	fliN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P15070
+			locus_tag	GFKBJCAA_00009
+			product	Flagellar motor switch protein FliN
+9551	8310	CDS
+			EC_number	2.3.1.179
+			gene	fabF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34340
+			locus_tag	GFKBJCAA_00010
+			product	3-oxoacyl-[acyl-carrier-protein] synthase 2
+9890	9651	CDS
+			gene	acpP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P80922
+			locus_tag	GFKBJCAA_00011
+			product	Acyl carrier protein
+10315	11820	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00012
+			product	hypothetical protein
+12445	11915	CDS
+			EC_number	2.4.2.10
+			gene	pyrE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WHK9
+			locus_tag	GFKBJCAA_00013
+			product	Orotate phosphoribosyltransferase
+12453	13469	CDS
+			EC_number	1.17.99.6
+			gene	queG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P97030
+			locus_tag	GFKBJCAA_00014
+			product	Epoxyqueuosine reductase
+13466	13945	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00015
+			product	hypothetical protein
+14477	14040	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q03928
+			locus_tag	GFKBJCAA_00016
+			product	18 kDa heat shock protein
+14589	14416	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00017
+			product	hypothetical protein
+14680	15582	CDS
+			EC_number	2.5.1.75
+			gene	miaA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8CQL3
+			locus_tag	GFKBJCAA_00018
+			product	tRNA dimethylallyltransferase
+15597	16658	CDS
+			EC_number	1.1.1.85
+			gene	leuB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WKK9
+			locus_tag	GFKBJCAA_00019
+			product	3-isopropylmalate dehydrogenase
+17310	16663	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00020
+			product	hypothetical protein
+18015	17419	CDS
+			gene	hisB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:D2QPE6
+			locus_tag	GFKBJCAA_00021
+			product	Histidine biosynthesis bifunctional protein HisB
+18421	18044	CDS
+			EC_number	2.7.1.66
+			gene	dgkA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q05888
+			locus_tag	GFKBJCAA_00022
+			product	Undecaprenol kinase
+19181	18414	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00023
+			product	hypothetical protein
+19331	19786	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00024
+			product	hypothetical protein
+20465	19704	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00025
+			product	hypothetical protein
+21383	20517	CDS
+			EC_number	2.6.1.42
+			gene	ilvE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O86428
+			locus_tag	GFKBJCAA_00026
+			product	Branched-chain-amino-acid aminotransferase
+21578	21961	CDS
+			EC_number	4.1.1.11
+			gene	panD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2FV23
+			locus_tag	GFKBJCAA_00027
+			product	Aspartate 1-decarboxylase
+22489	22007	CDS
+			EC_number	5.2.1.8
+			gene	ppiB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O66105
+			locus_tag	GFKBJCAA_00028
+			product	putative peptidyl-prolyl cis-trans isomerase
+23513	22563	CDS
+			EC_number	2.5.1.99
+			gene	crtB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37269
+			locus_tag	GFKBJCAA_00029
+			product	All-trans-phytoene synthase
+23566	24402	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00030
+			product	hypothetical protein
+24465	25412	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00031
+			product	hypothetical protein
+26356	25418	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00032
+			product	hypothetical protein
+27823	26360	CDS
+			EC_number	2.7.1.5
+			gene	rhaB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P32171
+			locus_tag	GFKBJCAA_00033
+			product	L-Rhamnulokinase
+27920	28186	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00034
+			product	hypothetical protein
+28393	28773	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00035
+			product	hypothetical protein
+29617	28871	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFKBJCAA_00036
+			product	hypothetical protein

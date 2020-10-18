@@ -1,0 +1,4 @@
+organism: Tepidisphaera mucosa strain 
+contigs: 1
+bases: 30001
+CDS: 36
